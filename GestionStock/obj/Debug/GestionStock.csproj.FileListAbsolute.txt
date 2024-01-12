@@ -1,0 +1,14 @@
+C:\Users\ylon2\Documents\projet\GestionStock\bin\Debug\GestionStock.exe.config
+C:\Users\ylon2\Documents\projet\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\ylon2\Documents\projet\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.csproj.AssemblyReference.cache
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.Properties.Resources.resources
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.csproj.GenerateResource.cache
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.csproj.CoreCompileInputs.cache
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.exe
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.pdb
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.Form1.resources
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.Form2.resources
+C:\Users\ylon2\Documents\projet\GestionStock\bin\Debug\MySql.Data.dll
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.csproj.CopyComplete
+C:\Users\ylon2\Documents\projet\GestionStock\obj\Debug\GestionStock.Menu.resources
